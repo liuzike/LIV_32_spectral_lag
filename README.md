@@ -1,4 +1,4 @@
-# LIV_32_spectral_lag  
+# LIV_32_spectral_lag  citation (Liu,et.al., 2022, ApJ, 935, 79) are required with the use of this dataset.
 This package consists of 32 folders, which are named with the burst number
 
 Each folder has four files:(i)1th-marg.jpg for the posterior corner plot in linear case (ii) 1th-post_equal_weights.dat for the posterior data points in linear case (iii)2th-marg.jpg for the posterior corner plot in quadratic case (iv)2th-post_equal_weights.dat for the posterior data points in quadratic case.
