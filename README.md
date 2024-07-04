@@ -10,4 +10,4 @@ This package also includes 32 *.txt files. In each *.txt file, there are five co
 
 Copyright @ 2022 LIV all rights  reserved 
 
-This dataset is provided for non-commercial use only. You may not distribute, modify, transmit, reuse, or use the contents of this dataset for public or commercial purposes without explicit written permission from Zike Liu & Binbin Zhang zkliu888@outlook.com
+This dataset is provided for non-commercial use only. You may not distribute, modify, transmit, reuse, or use the contents of this dataset for public or commercial purposes without explicit written permission from Zike Liu & Binbin Zhang zkliu888@outlook.com & bbzhang@nju.edu.cn
